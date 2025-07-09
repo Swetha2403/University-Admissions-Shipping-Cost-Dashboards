@@ -46,3 +46,6 @@ Analytics: Build a set of visualizations to identify underlying outliers and fli
 same set of visualizations to perform bottom up  about project give me  project objective, process , project insight, final conclusion
 -<a href="https://github.com/Swetha2403/University-Admissions-Shipping-Cost-Dashboards/tree/main/Screen%20Shot">ViewReport</a>  
   
+# Process
+The project begins with data preparation using Power BI's Query Editor to apply transformations such as appending, splitting, pivoting, merging, and indexing to clean and model the university admissions dataset. Once transformed, dashboards are built using custom expressions, filters, and visuals to present application trends by state, university, and demographics. A separate analysis on the Superstore dataset is carried out using top-down and bottom-up methods to identify outliers in shipping costs. Both visual storytelling and tabular reports are used to highlight key metrics and anomalies.
+
