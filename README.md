@@ -49,3 +49,12 @@ same set of visualizations to perform bottom up  about project give me  project 
 # Process
 The project begins with data preparation using Power BI's Query Editor to apply transformations such as appending, splitting, pivoting, merging, and indexing to clean and model the university admissions dataset. Once transformed, dashboards are built using custom expressions, filters, and visuals to present application trends by state, university, and demographics. A separate analysis on the Superstore dataset is carried out using top-down and bottom-up methods to identify outliers in shipping costs. Both visual storytelling and tabular reports are used to highlight key metrics and anomalies.
 
+# Project Insights
+-States with high admission targets often showed a gap in actual applications, indicating a need for targeted outreach.
+
+-Minority races had significantly lower application percentages in certain states, highlighting diversity concerns.
+
+-Some universities received higher funds but showed relatively low application rates, suggesting inefficiency.
+
+-Shipping cost anomalies were traced to specific regions and product categories through layered visual analysis, revealing hidden operational leaks.
+
