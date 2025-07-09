@@ -58,3 +58,6 @@ The project begins with data preparation using Power BI's Query Editor to apply 
 
 -Shipping cost anomalies were traced to specific regions and product categories through layered visual analysis, revealing hidden operational leaks.
 
+# Final Conclusion
+The university admissions dashboard provided actionable insights into demographic trends, fund allocation disparities, and state-wise performance, which can guide educational policy and budgeting. The shipping cost analysis effectively pinpointed areas of cost leakage, supporting strategic improvements in logistics and distribution planning. Overall, the project showcases the value of data transformation and visualization in driving informed decisions.
+
